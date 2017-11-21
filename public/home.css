@@ -1,0 +1,14 @@
+.graph-container {
+  display: flex;
+  justify-content: center;
+}
+
+.label-container {
+  width: 600px;
+  text-align: right;
+}
+
+.label {
+  height: 20px;
+  margin: 0;
+}

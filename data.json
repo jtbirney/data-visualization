@@ -1,0 +1,4690 @@
+{
+"results": [
+{
+"year": "1991",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 11
+},
+{
+"year": "1991",
+"bias_name": "Anti-Arab",
+"count": 73
+},
+{
+"year": "1991",
+"bias_name": "Anti-Asian",
+"count": 269
+},
+{
+"year": "1991",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 4
+},
+{
+"year": "1991",
+"bias_name": "Anti-Bisexual",
+"count": 1
+},
+{
+"year": "1991",
+"bias_name": "Anti-Black or African American",
+"count": 1629
+},
+{
+"year": "1991",
+"bias_name": "Anti-Catholic",
+"count": 19
+},
+{
+"year": "1991",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 44
+},
+{
+"year": "1991",
+"bias_name": "Anti-Heterosexual",
+"count": 3
+},
+{
+"year": "1991",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 231
+},
+{
+"year": "1991",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 10
+},
+{
+"year": "1991",
+"bias_name": "Anti-Jewish",
+"count": 795
+},
+{
+"year": "1991",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 68
+},
+{
+"year": "1991",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 294
+},
+{
+"year": "1991",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 86
+},
+{
+"year": "1991",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 11
+},
+{
+"year": "1991",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 132
+},
+{
+"year": "1991",
+"bias_name": "Anti-Other Religion",
+"count": 50
+},
+{
+"year": "1991",
+"bias_name": "Anti-Protestant",
+"count": 26
+},
+{
+"year": "1991",
+"bias_name": "Anti-White",
+"count": 841
+},
+{
+"year": "1992",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 26
+},
+{
+"year": "1992",
+"bias_name": "Anti-Arab",
+"count": 60
+},
+{
+"year": "1992",
+"bias_name": "Anti-Asian",
+"count": 222
+},
+{
+"year": "1992",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 1
+},
+{
+"year": "1992",
+"bias_name": "Anti-Bisexual",
+"count": 3
+},
+{
+"year": "1992",
+"bias_name": "Anti-Black or African American",
+"count": 2313
+},
+{
+"year": "1992",
+"bias_name": "Anti-Catholic",
+"count": 18
+},
+{
+"year": "1992",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 93
+},
+{
+"year": "1992",
+"bias_name": "Anti-Heterosexual",
+"count": 14
+},
+{
+"year": "1992",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 371
+},
+{
+"year": "1992",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 15
+},
+{
+"year": "1992",
+"bias_name": "Anti-Jewish",
+"count": 1020
+},
+{
+"year": "1992",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 100
+},
+{
+"year": "1992",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 563
+},
+{
+"year": "1992",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 147
+},
+{
+"year": "1992",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 14
+},
+{
+"year": "1992",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 241
+},
+{
+"year": "1992",
+"bias_name": "Anti-Other Religion",
+"count": 69
+},
+{
+"year": "1992",
+"bias_name": "Anti-Protestant",
+"count": 28
+},
+{
+"year": "1992",
+"bias_name": "Anti-White",
+"count": 1350
+},
+{
+"year": "1993",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 28
+},
+{
+"year": "1993",
+"bias_name": "Anti-Arab",
+"count": 55
+},
+{
+"year": "1993",
+"bias_name": "Anti-Asian",
+"count": 260
+},
+{
+"year": "1993",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 3
+},
+{
+"year": "1993",
+"bias_name": "Anti-Bisexual",
+"count": 2
+},
+{
+"year": "1993",
+"bias_name": "Anti-Black or African American",
+"count": 2827
+},
+{
+"year": "1993",
+"bias_name": "Anti-Catholic",
+"count": 32
+},
+{
+"year": "1993",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 121
+},
+{
+"year": "1993",
+"bias_name": "Anti-Heterosexual",
+"count": 28
+},
+{
+"year": "1993",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 419
+},
+{
+"year": "1993",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 13
+},
+{
+"year": "1993",
+"bias_name": "Anti-Jewish",
+"count": 1141
+},
+{
+"year": "1993",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 94
+},
+{
+"year": "1993",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 616
+},
+{
+"year": "1993",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 162
+},
+{
+"year": "1993",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 14
+},
+{
+"year": "1993",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 225
+},
+{
+"year": "1993",
+"bias_name": "Anti-Other Religion",
+"count": 64
+},
+{
+"year": "1993",
+"bias_name": "Anti-Protestant",
+"count": 30
+},
+{
+"year": "1993",
+"bias_name": "Anti-White",
+"count": 1481
+},
+{
+"year": "1994",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 25
+},
+{
+"year": "1994",
+"bias_name": "Anti-Arab",
+"count": 52
+},
+{
+"year": "1994",
+"bias_name": "Anti-Asian",
+"count": 211
+},
+{
+"year": "1994",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 3
+},
+{
+"year": "1994",
+"bias_name": "Anti-Bisexual",
+"count": 7
+},
+{
+"year": "1994",
+"bias_name": "Anti-Black or African American",
+"count": 2179
+},
+{
+"year": "1994",
+"bias_name": "Anti-Catholic",
+"count": 18
+},
+{
+"year": "1994",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 100
+},
+{
+"year": "1994",
+"bias_name": "Anti-Heterosexual",
+"count": 14
+},
+{
+"year": "1994",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 341
+},
+{
+"year": "1994",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 17
+},
+{
+"year": "1994",
+"bias_name": "Anti-Jewish",
+"count": 919
+},
+{
+"year": "1994",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 64
+},
+{
+"year": "1994",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 501
+},
+{
+"year": "1994",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 128
+},
+{
+"year": "1994",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 14
+},
+{
+"year": "1994",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 251
+},
+{
+"year": "1994",
+"bias_name": "Anti-Other Religion",
+"count": 67
+},
+{
+"year": "1994",
+"bias_name": "Anti-Protestant",
+"count": 30
+},
+{
+"year": "1994",
+"bias_name": "Anti-White",
+"count": 1015
+},
+{
+"year": "1995",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 41
+},
+{
+"year": "1995",
+"bias_name": "Anti-Arab",
+"count": 55
+},
+{
+"year": "1995",
+"bias_name": "Anti-Asian",
+"count": 355
+},
+{
+"year": "1995",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 1
+},
+{
+"year": "1995",
+"bias_name": "Anti-Bisexual",
+"count": 18
+},
+{
+"year": "1995",
+"bias_name": "Anti-Black or African American",
+"count": 2994
+},
+{
+"year": "1995",
+"bias_name": "Anti-Catholic",
+"count": 31
+},
+{
+"year": "1995",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 146
+},
+{
+"year": "1995",
+"bias_name": "Anti-Heterosexual",
+"count": 17
+},
+{
+"year": "1995",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 517
+},
+{
+"year": "1995",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 29
+},
+{
+"year": "1995",
+"bias_name": "Anti-Jewish",
+"count": 1059
+},
+{
+"year": "1995",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 103
+},
+{
+"year": "1995",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 736
+},
+{
+"year": "1995",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 221
+},
+{
+"year": "1995",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 19
+},
+{
+"year": "1995",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 243
+},
+{
+"year": "1995",
+"bias_name": "Anti-Other Religion",
+"count": 102
+},
+{
+"year": "1995",
+"bias_name": "Anti-Protestant",
+"count": 36
+},
+{
+"year": "1995",
+"bias_name": "Anti-White",
+"count": 1234
+},
+{
+"year": "1996",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 51
+},
+{
+"year": "1996",
+"bias_name": "Anti-Arab",
+"count": 40
+},
+{
+"year": "1996",
+"bias_name": "Anti-Asian",
+"count": 356
+},
+{
+"year": "1996",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 2
+},
+{
+"year": "1996",
+"bias_name": "Anti-Bisexual",
+"count": 10
+},
+{
+"year": "1996",
+"bias_name": "Anti-Black or African American",
+"count": 3676
+},
+{
+"year": "1996",
+"bias_name": "Anti-Catholic",
+"count": 35
+},
+{
+"year": "1996",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 150
+},
+{
+"year": "1996",
+"bias_name": "Anti-Heterosexual",
+"count": 15
+},
+{
+"year": "1996",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 566
+},
+{
+"year": "1996",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 27
+},
+{
+"year": "1996",
+"bias_name": "Anti-Jewish",
+"count": 1109
+},
+{
+"year": "1996",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 85
+},
+{
+"year": "1996",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 757
+},
+{
+"year": "1996",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 212
+},
+{
+"year": "1996",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 24
+},
+{
+"year": "1996",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 338
+},
+{
+"year": "1996",
+"bias_name": "Anti-Other Religion",
+"count": 156
+},
+{
+"year": "1996",
+"bias_name": "Anti-Protestant",
+"count": 75
+},
+{
+"year": "1996",
+"bias_name": "Anti-White",
+"count": 1108
+},
+{
+"year": "1997",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 38
+},
+{
+"year": "1997",
+"bias_name": "Anti-Arab",
+"count": 34
+},
+{
+"year": "1997",
+"bias_name": "Anti-Asian",
+"count": 346
+},
+{
+"year": "1997",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 3
+},
+{
+"year": "1997",
+"bias_name": "Anti-Bisexual",
+"count": 9
+},
+{
+"year": "1997",
+"bias_name": "Anti-Black or African American",
+"count": 3147
+},
+{
+"year": "1997",
+"bias_name": "Anti-Catholic",
+"count": 32
+},
+{
+"year": "1997",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 189
+},
+{
+"year": "1997",
+"bias_name": "Anti-Heterosexual",
+"count": 12
+},
+{
+"year": "1997",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 490
+},
+{
+"year": "1997",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 28
+},
+{
+"year": "1997",
+"bias_name": "Anti-Jewish",
+"count": 1089
+},
+{
+"year": "1997",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 141
+},
+{
+"year": "1997",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 762
+},
+{
+"year": "1997",
+"bias_name": "Anti-Mental Disability",
+"count": 3
+},
+{
+"year": "1997",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 215
+},
+{
+"year": "1997",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 24
+},
+{
+"year": "1997",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 313
+},
+{
+"year": "1997",
+"bias_name": "Anti-Other Religion",
+"count": 160
+},
+{
+"year": "1997",
+"bias_name": "Anti-Physical Disability",
+"count": 10
+},
+{
+"year": "1997",
+"bias_name": "Anti-Protestant",
+"count": 54
+},
+{
+"year": "1997",
+"bias_name": "Anti-White",
+"count": 1009
+},
+{
+"year": "1998",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 52
+},
+{
+"year": "1998",
+"bias_name": "Anti-Arab",
+"count": 25
+},
+{
+"year": "1998",
+"bias_name": "Anti-Asian",
+"count": 297
+},
+{
+"year": "1998",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 2
+},
+{
+"year": "1998",
+"bias_name": "Anti-Bisexual",
+"count": 17
+},
+{
+"year": "1998",
+"bias_name": "Anti-Black or African American",
+"count": 2969
+},
+{
+"year": "1998",
+"bias_name": "Anti-Catholic",
+"count": 60
+},
+{
+"year": "1998",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 232
+},
+{
+"year": "1998",
+"bias_name": "Anti-Heterosexual",
+"count": 12
+},
+{
+"year": "1998",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 495
+},
+{
+"year": "1998",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 21
+},
+{
+"year": "1998",
+"bias_name": "Anti-Jewish",
+"count": 1088
+},
+{
+"year": "1998",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 162
+},
+{
+"year": "1998",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 872
+},
+{
+"year": "1998",
+"bias_name": "Anti-Mental Disability",
+"count": 13
+},
+{
+"year": "1998",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 288
+},
+{
+"year": "1998",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 41
+},
+{
+"year": "1998",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 255
+},
+{
+"year": "1998",
+"bias_name": "Anti-Other Religion",
+"count": 128
+},
+{
+"year": "1998",
+"bias_name": "Anti-Physical Disability",
+"count": 13
+},
+{
+"year": "1998",
+"bias_name": "Anti-Protestant",
+"count": 60
+},
+{
+"year": "1998",
+"bias_name": "Anti-White",
+"count": 804
+},
+{
+"year": "1999",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 49
+},
+{
+"year": "1999",
+"bias_name": "Anti-Arab",
+"count": 24
+},
+{
+"year": "1999",
+"bias_name": "Anti-Asian",
+"count": 304
+},
+{
+"year": "1999",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 4
+},
+{
+"year": "1999",
+"bias_name": "Anti-Bisexual",
+"count": 23
+},
+{
+"year": "1999",
+"bias_name": "Anti-Black or African American",
+"count": 2989
+},
+{
+"year": "1999",
+"bias_name": "Anti-Catholic",
+"count": 36
+},
+{
+"year": "1999",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 186
+},
+{
+"year": "1999",
+"bias_name": "Anti-Heterosexual",
+"count": 14
+},
+{
+"year": "1999",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 476
+},
+{
+"year": "1999",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 32
+},
+{
+"year": "1999",
+"bias_name": "Anti-Jewish",
+"count": 1113
+},
+{
+"year": "1999",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 179
+},
+{
+"year": "1999",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 924
+},
+{
+"year": "1999",
+"bias_name": "Anti-Mental Disability",
+"count": 9
+},
+{
+"year": "1999",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 215
+},
+{
+"year": "1999",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 31
+},
+{
+"year": "1999",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 341
+},
+{
+"year": "1999",
+"bias_name": "Anti-Other Religion",
+"count": 152
+},
+{
+"year": "1999",
+"bias_name": "Anti-Physical Disability",
+"count": 8
+},
+{
+"year": "1999",
+"bias_name": "Anti-Protestant",
+"count": 50
+},
+{
+"year": "1999",
+"bias_name": "Anti-White",
+"count": 789
+},
+{
+"year": "2000",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 59
+},
+{
+"year": "2000",
+"bias_name": "Anti-Arab",
+"count": 38
+},
+{
+"year": "2000",
+"bias_name": "Anti-Asian",
+"count": 280
+},
+{
+"year": "2000",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 4
+},
+{
+"year": "2000",
+"bias_name": "Anti-Bisexual",
+"count": 21
+},
+{
+"year": "2000",
+"bias_name": "Anti-Black or African American",
+"count": 2939
+},
+{
+"year": "2000",
+"bias_name": "Anti-Catholic",
+"count": 56
+},
+{
+"year": "2000",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 193
+},
+{
+"year": "2000",
+"bias_name": "Anti-Heterosexual",
+"count": 26
+},
+{
+"year": "2000",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 573
+},
+{
+"year": "2000",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 29
+},
+{
+"year": "2000",
+"bias_name": "Anti-Jewish",
+"count": 1122
+},
+{
+"year": "2000",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 188
+},
+{
+"year": "2000",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 905
+},
+{
+"year": "2000",
+"bias_name": "Anti-Mental Disability",
+"count": 18
+},
+{
+"year": "2000",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 247
+},
+{
+"year": "2000",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 49
+},
+{
+"year": "2000",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 318
+},
+{
+"year": "2000",
+"bias_name": "Anti-Other Religion",
+"count": 174
+},
+{
+"year": "2000",
+"bias_name": "Anti-Physical Disability",
+"count": 20
+},
+{
+"year": "2000",
+"bias_name": "Anti-Protestant",
+"count": 59
+},
+{
+"year": "2000",
+"bias_name": "Anti-White",
+"count": 906
+},
+{
+"year": "2001",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 78
+},
+{
+"year": "2001",
+"bias_name": "Anti-Arab",
+"count": 254
+},
+{
+"year": "2001",
+"bias_name": "Anti-Asian",
+"count": 280
+},
+{
+"year": "2001",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 5
+},
+{
+"year": "2001",
+"bias_name": "Anti-Bisexual",
+"count": 15
+},
+{
+"year": "2001",
+"bias_name": "Anti-Black or African American",
+"count": 2922
+},
+{
+"year": "2001",
+"bias_name": "Anti-Catholic",
+"count": 36
+},
+{
+"year": "2001",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 205
+},
+{
+"year": "2001",
+"bias_name": "Anti-Heterosexual",
+"count": 16
+},
+{
+"year": "2001",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 607
+},
+{
+"year": "2001",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 499
+},
+{
+"year": "2001",
+"bias_name": "Anti-Jewish",
+"count": 1053
+},
+{
+"year": "2001",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 178
+},
+{
+"year": "2001",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 991
+},
+{
+"year": "2001",
+"bias_name": "Anti-Mental Disability",
+"count": 23
+},
+{
+"year": "2001",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 219
+},
+{
+"year": "2001",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 47
+},
+{
+"year": "2001",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 1251
+},
+{
+"year": "2001",
+"bias_name": "Anti-Other Religion",
+"count": 188
+},
+{
+"year": "2001",
+"bias_name": "Anti-Physical Disability",
+"count": 14
+},
+{
+"year": "2001",
+"bias_name": "Anti-Protestant",
+"count": 34
+},
+{
+"year": "2001",
+"bias_name": "Anti-White",
+"count": 822
+},
+{
+"year": "2002",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 62
+},
+{
+"year": "2002",
+"bias_name": "Anti-Arab",
+"count": 81
+},
+{
+"year": "2002",
+"bias_name": "Anti-Asian",
+"count": 219
+},
+{
+"year": "2002",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 2
+},
+{
+"year": "2002",
+"bias_name": "Anti-Bisexual",
+"count": 16
+},
+{
+"year": "2002",
+"bias_name": "Anti-Black or African American",
+"count": 2507
+},
+{
+"year": "2002",
+"bias_name": "Anti-Catholic",
+"count": 51
+},
+{
+"year": "2002",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 174
+},
+{
+"year": "2002",
+"bias_name": "Anti-Heterosexual",
+"count": 10
+},
+{
+"year": "2002",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 482
+},
+{
+"year": "2002",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 156
+},
+{
+"year": "2002",
+"bias_name": "Anti-Jewish",
+"count": 938
+},
+{
+"year": "2002",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 224
+},
+{
+"year": "2002",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 823
+},
+{
+"year": "2002",
+"bias_name": "Anti-Mental Disability",
+"count": 29
+},
+{
+"year": "2002",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 159
+},
+{
+"year": "2002",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 25
+},
+{
+"year": "2002",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 546
+},
+{
+"year": "2002",
+"bias_name": "Anti-Other Religion",
+"count": 200
+},
+{
+"year": "2002",
+"bias_name": "Anti-Physical Disability",
+"count": 20
+},
+{
+"year": "2002",
+"bias_name": "Anti-Protestant",
+"count": 53
+},
+{
+"year": "2002",
+"bias_name": "Anti-White",
+"count": 710
+},
+{
+"year": "2003",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 71
+},
+{
+"year": "2003",
+"bias_name": "Anti-Arab",
+"count": 14
+},
+{
+"year": "2003",
+"bias_name": "Anti-Asian",
+"count": 236
+},
+{
+"year": "2003",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 9
+},
+{
+"year": "2003",
+"bias_name": "Anti-Bisexual",
+"count": 8
+},
+{
+"year": "2003",
+"bias_name": "Anti-Black or African American",
+"count": 2574
+},
+{
+"year": "2003",
+"bias_name": "Anti-Catholic",
+"count": 75
+},
+{
+"year": "2003",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 184
+},
+{
+"year": "2003",
+"bias_name": "Anti-Heterosexual",
+"count": 16
+},
+{
+"year": "2003",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 432
+},
+{
+"year": "2003",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 149
+},
+{
+"year": "2003",
+"bias_name": "Anti-Jewish",
+"count": 931
+},
+{
+"year": "2003",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 251
+},
+{
+"year": "2003",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 790
+},
+{
+"year": "2003",
+"bias_name": "Anti-Mental Disability",
+"count": 10
+},
+{
+"year": "2003",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 161
+},
+{
+"year": "2003",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 23
+},
+{
+"year": "2003",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 589
+},
+{
+"year": "2003",
+"bias_name": "Anti-Other Religion",
+"count": 108
+},
+{
+"year": "2003",
+"bias_name": "Anti-Physical Disability",
+"count": 36
+},
+{
+"year": "2003",
+"bias_name": "Anti-Protestant",
+"count": 48
+},
+{
+"year": "2003",
+"bias_name": "Anti-White",
+"count": 833
+},
+{
+"year": "2004",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 85
+},
+{
+"year": "2004",
+"bias_name": "Anti-Asian",
+"count": 224
+},
+{
+"year": "2004",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 6
+},
+{
+"year": "2004",
+"bias_name": "Anti-Bisexual",
+"count": 15
+},
+{
+"year": "2004",
+"bias_name": "Anti-Black or African American",
+"count": 2765
+},
+{
+"year": "2004",
+"bias_name": "Anti-Catholic",
+"count": 57
+},
+{
+"year": "2004",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 165
+},
+{
+"year": "2004",
+"bias_name": "Anti-Heterosexual",
+"count": 29
+},
+{
+"year": "2004",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 478
+},
+{
+"year": "2004",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 158
+},
+{
+"year": "2004",
+"bias_name": "Anti-Jewish",
+"count": 965
+},
+{
+"year": "2004",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 244
+},
+{
+"year": "2004",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 738
+},
+{
+"year": "2004",
+"bias_name": "Anti-Mental Disability",
+"count": 32
+},
+{
+"year": "2004",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 184
+},
+{
+"year": "2004",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 35
+},
+{
+"year": "2004",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 498
+},
+{
+"year": "2004",
+"bias_name": "Anti-Other Religion",
+"count": 124
+},
+{
+"year": "2004",
+"bias_name": "Anti-Physical Disability",
+"count": 23
+},
+{
+"year": "2004",
+"bias_name": "Anti-Protestant",
+"count": 39
+},
+{
+"year": "2004",
+"bias_name": "Anti-White",
+"count": 827
+},
+{
+"year": "2005",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 79
+},
+{
+"year": "2005",
+"bias_name": "Anti-Asian",
+"count": 208
+},
+{
+"year": "2005",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 4
+},
+{
+"year": "2005",
+"bias_name": "Anti-Bisexual",
+"count": 26
+},
+{
+"year": "2005",
+"bias_name": "Anti-Black or African American",
+"count": 2671
+},
+{
+"year": "2005",
+"bias_name": "Anti-Catholic",
+"count": 67
+},
+{
+"year": "2005",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 161
+},
+{
+"year": "2005",
+"bias_name": "Anti-Heterosexual",
+"count": 21
+},
+{
+"year": "2005",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 538
+},
+{
+"year": "2005",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 138
+},
+{
+"year": "2005",
+"bias_name": "Anti-Jewish",
+"count": 936
+},
+{
+"year": "2005",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 200
+},
+{
+"year": "2005",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 669
+},
+{
+"year": "2005",
+"bias_name": "Anti-Mental Disability",
+"count": 35
+},
+{
+"year": "2005",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 192
+},
+{
+"year": "2005",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 40
+},
+{
+"year": "2005",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 434
+},
+{
+"year": "2005",
+"bias_name": "Anti-Other Religion",
+"count": 100
+},
+{
+"year": "2005",
+"bias_name": "Anti-Physical Disability",
+"count": 21
+},
+{
+"year": "2005",
+"bias_name": "Anti-Protestant",
+"count": 56
+},
+{
+"year": "2005",
+"bias_name": "Anti-White",
+"count": 818
+},
+{
+"year": "2006",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 61
+},
+{
+"year": "2006",
+"bias_name": "Anti-Asian",
+"count": 184
+},
+{
+"year": "2006",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 7
+},
+{
+"year": "2006",
+"bias_name": "Anti-Bisexual",
+"count": 20
+},
+{
+"year": "2006",
+"bias_name": "Anti-Black or African American",
+"count": 2631
+},
+{
+"year": "2006",
+"bias_name": "Anti-Catholic",
+"count": 75
+},
+{
+"year": "2006",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 162
+},
+{
+"year": "2006",
+"bias_name": "Anti-Heterosexual",
+"count": 31
+},
+{
+"year": "2006",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 589
+},
+{
+"year": "2006",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 157
+},
+{
+"year": "2006",
+"bias_name": "Anti-Jewish",
+"count": 968
+},
+{
+"year": "2006",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 241
+},
+{
+"year": "2006",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 744
+},
+{
+"year": "2006",
+"bias_name": "Anti-Mental Disability",
+"count": 65
+},
+{
+"year": "2006",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 233
+},
+{
+"year": "2006",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 72
+},
+{
+"year": "2006",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 417
+},
+{
+"year": "2006",
+"bias_name": "Anti-Other Religion",
+"count": 125
+},
+{
+"year": "2006",
+"bias_name": "Anti-Physical Disability",
+"count": 18
+},
+{
+"year": "2006",
+"bias_name": "Anti-Protestant",
+"count": 60
+},
+{
+"year": "2006",
+"bias_name": "Anti-White",
+"count": 858
+},
+{
+"year": "2007",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 61
+},
+{
+"year": "2007",
+"bias_name": "Anti-Asian",
+"count": 190
+},
+{
+"year": "2007",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 7
+},
+{
+"year": "2007",
+"bias_name": "Anti-Bisexual",
+"count": 23
+},
+{
+"year": "2007",
+"bias_name": "Anti-Black or African American",
+"count": 2675
+},
+{
+"year": "2007",
+"bias_name": "Anti-Catholic",
+"count": 61
+},
+{
+"year": "2007",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 145
+},
+{
+"year": "2007",
+"bias_name": "Anti-Heterosexual",
+"count": 22
+},
+{
+"year": "2007",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 598
+},
+{
+"year": "2007",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 115
+},
+{
+"year": "2007",
+"bias_name": "Anti-Jewish",
+"count": 973
+},
+{
+"year": "2007",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 309
+},
+{
+"year": "2007",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 777
+},
+{
+"year": "2007",
+"bias_name": "Anti-Mental Disability",
+"count": 39
+},
+{
+"year": "2007",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 214
+},
+{
+"year": "2007",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 55
+},
+{
+"year": "2007",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 414
+},
+{
+"year": "2007",
+"bias_name": "Anti-Other Religion",
+"count": 130
+},
+{
+"year": "2007",
+"bias_name": "Anti-Physical Disability",
+"count": 20
+},
+{
+"year": "2007",
+"bias_name": "Anti-Protestant",
+"count": 56
+},
+{
+"year": "2007",
+"bias_name": "Anti-White",
+"count": 743
+},
+{
+"year": "2008",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 56
+},
+{
+"year": "2008",
+"bias_name": "Anti-Asian",
+"count": 142
+},
+{
+"year": "2008",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 14
+},
+{
+"year": "2008",
+"bias_name": "Anti-Bisexual",
+"count": 28
+},
+{
+"year": "2008",
+"bias_name": "Anti-Black or African American",
+"count": 2952
+},
+{
+"year": "2008",
+"bias_name": "Anti-Catholic",
+"count": 79
+},
+{
+"year": "2008",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 158
+},
+{
+"year": "2008",
+"bias_name": "Anti-Heterosexual",
+"count": 33
+},
+{
+"year": "2008",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 575
+},
+{
+"year": "2008",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 105
+},
+{
+"year": "2008",
+"bias_name": "Anti-Jewish",
+"count": 1036
+},
+{
+"year": "2008",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 319
+},
+{
+"year": "2008",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 799
+},
+{
+"year": "2008",
+"bias_name": "Anti-Mental Disability",
+"count": 66
+},
+{
+"year": "2008",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 221
+},
+{
+"year": "2008",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 67
+},
+{
+"year": "2008",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 351
+},
+{
+"year": "2008",
+"bias_name": "Anti-Other Religion",
+"count": 196
+},
+{
+"year": "2008",
+"bias_name": "Anti-Physical Disability",
+"count": 27
+},
+{
+"year": "2008",
+"bias_name": "Anti-Protestant",
+"count": 55
+},
+{
+"year": "2008",
+"bias_name": "Anti-White",
+"count": 760
+},
+{
+"year": "2009",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 68
+},
+{
+"year": "2009",
+"bias_name": "Anti-Asian",
+"count": 128
+},
+{
+"year": "2009",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 10
+},
+{
+"year": "2009",
+"bias_name": "Anti-Bisexual",
+"count": 24
+},
+{
+"year": "2009",
+"bias_name": "Anti-Black or African American",
+"count": 2300
+},
+{
+"year": "2009",
+"bias_name": "Anti-Catholic",
+"count": 52
+},
+{
+"year": "2009",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 186
+},
+{
+"year": "2009",
+"bias_name": "Anti-Heterosexual",
+"count": 21
+},
+{
+"year": "2009",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 486
+},
+{
+"year": "2009",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 107
+},
+{
+"year": "2009",
+"bias_name": "Anti-Jewish",
+"count": 932
+},
+{
+"year": "2009",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 311
+},
+{
+"year": "2009",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 687
+},
+{
+"year": "2009",
+"bias_name": "Anti-Mental Disability",
+"count": 70
+},
+{
+"year": "2009",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 180
+},
+{
+"year": "2009",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 48
+},
+{
+"year": "2009",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 296
+},
+{
+"year": "2009",
+"bias_name": "Anti-Other Religion",
+"count": 111
+},
+{
+"year": "2009",
+"bias_name": "Anti-Physical Disability",
+"count": 24
+},
+{
+"year": "2009",
+"bias_name": "Anti-Protestant",
+"count": 38
+},
+{
+"year": "2009",
+"bias_name": "Anti-White",
+"count": 539
+},
+{
+"year": "2010",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 44
+},
+{
+"year": "2010",
+"bias_name": "Anti-Asian",
+"count": 152
+},
+{
+"year": "2010",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 5
+},
+{
+"year": "2010",
+"bias_name": "Anti-Bisexual",
+"count": 26
+},
+{
+"year": "2010",
+"bias_name": "Anti-Black or African American",
+"count": 2202
+},
+{
+"year": "2010",
+"bias_name": "Anti-Catholic",
+"count": 58
+},
+{
+"year": "2010",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 144
+},
+{
+"year": "2010",
+"bias_name": "Anti-Heterosexual",
+"count": 21
+},
+{
+"year": "2010",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 534
+},
+{
+"year": "2010",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 160
+},
+{
+"year": "2010",
+"bias_name": "Anti-Jewish",
+"count": 887
+},
+{
+"year": "2010",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 347
+},
+{
+"year": "2010",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 740
+},
+{
+"year": "2010",
+"bias_name": "Anti-Mental Disability",
+"count": 24
+},
+{
+"year": "2010",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 167
+},
+{
+"year": "2010",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 48
+},
+{
+"year": "2010",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 314
+},
+{
+"year": "2010",
+"bias_name": "Anti-Other Religion",
+"count": 124
+},
+{
+"year": "2010",
+"bias_name": "Anti-Physical Disability",
+"count": 19
+},
+{
+"year": "2010",
+"bias_name": "Anti-Protestant",
+"count": 41
+},
+{
+"year": "2010",
+"bias_name": "Anti-White",
+"count": 575
+},
+{
+"year": "2011",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 64
+},
+{
+"year": "2011",
+"bias_name": "Anti-Asian",
+"count": 137
+},
+{
+"year": "2011",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 4
+},
+{
+"year": "2011",
+"bias_name": "Anti-Bisexual",
+"count": 25
+},
+{
+"year": "2011",
+"bias_name": "Anti-Black or African American",
+"count": 2102
+},
+{
+"year": "2011",
+"bias_name": "Anti-Catholic",
+"count": 73
+},
+{
+"year": "2011",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 137
+},
+{
+"year": "2011",
+"bias_name": "Anti-Heterosexual",
+"count": 18
+},
+{
+"year": "2011",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 405
+},
+{
+"year": "2011",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 163
+},
+{
+"year": "2011",
+"bias_name": "Anti-Jewish",
+"count": 770
+},
+{
+"year": "2011",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 366
+},
+{
+"year": "2011",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 766
+},
+{
+"year": "2011",
+"bias_name": "Anti-Mental Disability",
+"count": 42
+},
+{
+"year": "2011",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 136
+},
+{
+"year": "2011",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 53
+},
+{
+"year": "2011",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 320
+},
+{
+"year": "2011",
+"bias_name": "Anti-Other Religion",
+"count": 131
+},
+{
+"year": "2011",
+"bias_name": "Anti-Physical Disability",
+"count": 22
+},
+{
+"year": "2011",
+"bias_name": "Anti-Protestant",
+"count": 45
+},
+{
+"year": "2011",
+"bias_name": "Anti-White",
+"count": 527
+},
+{
+"year": "2012",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 105
+},
+{
+"year": "2012",
+"bias_name": "Anti-Asian",
+"count": 144
+},
+{
+"year": "2012",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 13
+},
+{
+"year": "2012",
+"bias_name": "Anti-Bisexual",
+"count": 38
+},
+{
+"year": "2012",
+"bias_name": "Anti-Black or African American",
+"count": 2061
+},
+{
+"year": "2012",
+"bias_name": "Anti-Catholic",
+"count": 75
+},
+{
+"year": "2012",
+"bias_name": "Anti-Female",
+"count": 2
+},
+{
+"year": "2012",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 171
+},
+{
+"year": "2012",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": 4
+},
+{
+"year": "2012",
+"bias_name": "Anti-Heterosexual",
+"count": 26
+},
+{
+"year": "2012",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 429
+},
+{
+"year": "2012",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 149
+},
+{
+"year": "2012",
+"bias_name": "Anti-Jewish",
+"count": 868
+},
+{
+"year": "2012",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 340
+},
+{
+"year": "2012",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 728
+},
+{
+"year": "2012",
+"bias_name": "Anti-Mental Disability",
+"count": 89
+},
+{
+"year": "2012",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 123
+},
+{
+"year": "2012",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 76
+},
+{
+"year": "2012",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 312
+},
+{
+"year": "2012",
+"bias_name": "Anti-Other Religion",
+"count": 102
+},
+{
+"year": "2012",
+"bias_name": "Anti-Physical Disability",
+"count": 21
+},
+{
+"year": "2012",
+"bias_name": "Anti-Protestant",
+"count": 38
+},
+{
+"year": "2012",
+"bias_name": "Anti-White",
+"count": 686
+},
+{
+"year": "2013",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 129
+},
+{
+"year": "2013",
+"bias_name": "Anti-Asian",
+"count": 135
+},
+{
+"year": "2013",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 7
+},
+{
+"year": "2013",
+"bias_name": "Anti-Bisexual",
+"count": 26
+},
+{
+"year": "2013",
+"bias_name": "Anti-Black or African American",
+"count": 1855
+},
+{
+"year": "2013",
+"bias_name": "Anti-Catholic",
+"count": 69
+},
+{
+"year": "2013",
+"bias_name": "Anti-Female",
+"count": 13
+},
+{
+"year": "2013",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 160
+},
+{
+"year": "2013",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": 8
+},
+{
+"year": "2013",
+"bias_name": "Anti-Heterosexual",
+"count": 21
+},
+{
+"year": "2013",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 328
+},
+{
+"year": "2013",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 137
+},
+{
+"year": "2013",
+"bias_name": "Anti-Jewish",
+"count": 625
+},
+{
+"year": "2013",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 277
+},
+{
+"year": "2013",
+"bias_name": "Anti-Male",
+"count": 5
+},
+{
+"year": "2013",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 754
+},
+{
+"year": "2013",
+"bias_name": "Anti-Mental Disability",
+"count": 62
+},
+{
+"year": "2013",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 95
+},
+{
+"year": "2013",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 41
+},
+{
+"year": "2013",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": 3
+},
+{
+"year": "2013",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 324
+},
+{
+"year": "2013",
+"bias_name": "Anti-Other Religion",
+"count": 117
+},
+{
+"year": "2013",
+"bias_name": "Anti-Physical Disability",
+"count": 22
+},
+{
+"year": "2013",
+"bias_name": "Anti-Protestant",
+"count": 34
+},
+{
+"year": "2013",
+"bias_name": "Anti-Transgender",
+"count": 23
+},
+{
+"year": "2013",
+"bias_name": "Anti-White",
+"count": 650
+},
+{
+"year": "2014",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 131
+},
+{
+"year": "2014",
+"bias_name": "Anti-Arab",
+"count": 6
+},
+{
+"year": "2014",
+"bias_name": "Anti-Asian",
+"count": 140
+},
+{
+"year": "2014",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 11
+},
+{
+"year": "2014",
+"bias_name": "Anti-Bisexual",
+"count": 30
+},
+{
+"year": "2014",
+"bias_name": "Anti-Black or African American",
+"count": 1630
+},
+{
+"year": "2014",
+"bias_name": "Anti-Catholic",
+"count": 64
+},
+{
+"year": "2014",
+"bias_name": "Anti-Female",
+"count": 23
+},
+{
+"year": "2014",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 130
+},
+{
+"year": "2014",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": 40
+},
+{
+"year": "2014",
+"bias_name": "Anti-Heterosexual",
+"count": 18
+},
+{
+"year": "2014",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 299
+},
+{
+"year": "2014",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 154
+},
+{
+"year": "2014",
+"bias_name": "Anti-Jewish",
+"count": 609
+},
+{
+"year": "2014",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 244
+},
+{
+"year": "2014",
+"bias_name": "Anti-Male",
+"count": 10
+},
+{
+"year": "2014",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 600
+},
+{
+"year": "2014",
+"bias_name": "Anti-Mental Disability",
+"count": 62
+},
+{
+"year": "2014",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 83
+},
+{
+"year": "2014",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 46
+},
+{
+"year": "2014",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": 3
+},
+{
+"year": "2014",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 343
+},
+{
+"year": "2014",
+"bias_name": "Anti-Other Religion",
+"count": 108
+},
+{
+"year": "2014",
+"bias_name": "Anti-Physical Disability",
+"count": 24
+},
+{
+"year": "2014",
+"bias_name": "Anti-Protestant",
+"count": 26
+},
+{
+"year": "2014",
+"bias_name": "Anti-Transgender",
+"count": 58
+},
+{
+"year": "2014",
+"bias_name": "Anti-White",
+"count": 596
+},
+{
+"year": "2015",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": 139
+},
+{
+"year": "2015",
+"bias_name": "Anti-Arab",
+"count": 39
+},
+{
+"year": "2015",
+"bias_name": "Anti-Asian",
+"count": 116
+},
+{
+"year": "2015",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": 3
+},
+{
+"year": "2015",
+"bias_name": "Anti-Bisexual",
+"count": 32
+},
+{
+"year": "2015",
+"bias_name": "Anti-Black or African American",
+"count": 1773
+},
+{
+"year": "2015",
+"bias_name": "Anti-Buddhist",
+"count": 1
+},
+{
+"year": "2015",
+"bias_name": "Anti-Catholic",
+"count": 54
+},
+{
+"year": "2015",
+"bias_name": "Anti-Eastern Orthodox",
+"count": 53
+},
+{
+"year": "2015",
+"bias_name": "Anti-Female",
+"count": 19
+},
+{
+"year": "2015",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": 145
+},
+{
+"year": "2015",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": 43
+},
+{
+"year": "2015",
+"bias_name": "Anti-Heterosexual",
+"count": 19
+},
+{
+"year": "2015",
+"bias_name": "Anti-Hindu",
+"count": 5
+},
+{
+"year": "2015",
+"bias_name": "Anti-Hispanic or Latino",
+"count": 304
+},
+{
+"year": "2015",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": 263
+},
+{
+"year": "2015",
+"bias_name": "Anti-Jehovah's Witness",
+"count": 1
+},
+{
+"year": "2015",
+"bias_name": "Anti-Jewish",
+"count": 666
+},
+{
+"year": "2015",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": 206
+},
+{
+"year": "2015",
+"bias_name": "Anti-Male",
+"count": 7
+},
+{
+"year": "2015",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": 681
+},
+{
+"year": "2015",
+"bias_name": "Anti-Mental Disability",
+"count": 33
+},
+{
+"year": "2015",
+"bias_name": "Anti-Mormon",
+"count": 8
+},
+{
+"year": "2015",
+"bias_name": "Anti-Multi-Racial Group",
+"count": 117
+},
+{
+"year": "2015",
+"bias_name": "Anti-Multi-Religious Group",
+"count": 53
+},
+{
+"year": "2015",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": 4
+},
+{
+"year": "2015",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": 266
+},
+{
+"year": "2015",
+"bias_name": "Anti-Other Christian",
+"count": 15
+},
+{
+"year": "2015",
+"bias_name": "Anti-Other Religion",
+"count": 97
+},
+{
+"year": "2015",
+"bias_name": "Anti-Physical Disability",
+"count": 46
+},
+{
+"year": "2015",
+"bias_name": "Anti-Protestant",
+"count": 37
+},
+{
+"year": "2015",
+"bias_name": "Anti-Sikh",
+"count": 6
+},
+{
+"year": "2015",
+"bias_name": "Anti-Transgender",
+"count": 73
+},
+{
+"year": "2015",
+"bias_name": "Anti-White",
+"count": 628
+},
+{
+"year": "2016",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-American Indian or Alaska Native",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Arab",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Asian",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Atheist/Agnosticism",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Bisexual",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Black or African American",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Buddhist",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Catholic",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Eastern Orthodox",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Female",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Female Homosexual (Lesbian)",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Gender Non-Conforming",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Heterosexual",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Hindu",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Hispanic or Latino",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Islamic (Muslem)",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Jehovah's Witness",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Jewish",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Male",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Male Homosexual (Gay)",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Mental Disability",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Mental Disability",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Mental Disability",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Mental Disability",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Mental Disability",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Mental Disability",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Mental Disability",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Mormon",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Multi-Racial Group",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Multi-Religious Group",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Native Hawaiian or Other Pacific Islander",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Not Hispanic or Latino",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Other Christian",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Other Religion",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Physical Disability",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Physical Disability",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Physical Disability",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Physical Disability",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Physical Disability",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Physical Disability",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Physical Disability",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Protestant",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Sikh",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-Transgender",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "Anti-White",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2015",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "2016",
+"bias_name": "None",
+"count": null
+},
+{
+"year": "1991",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "1992",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "1993",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "1994",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "1995",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "1996",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "1997",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "1998",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "1999",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2000",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2001",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2002",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2003",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2004",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2005",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2006",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2007",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2008",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2009",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2010",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2011",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2012",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2013",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2014",
+"bias_name": "Unknown",
+"count": null
+},
+{
+"year": "2015",
+"bias_name": "Unknown",
+"count": null
+}
+],
+"pagination": {
+"pages": 1,
+"page": 1,
+"per_page": 10,
+"count": 1
+}
+}

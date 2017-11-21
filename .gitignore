@@ -1,0 +1,8 @@
+bundle.js
+/node_modules
+.DS_Store
+app/.DS_Store
+/yarn-error.log
+Gemfile.lock
+
+.env
