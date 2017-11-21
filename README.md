@@ -22,7 +22,7 @@ $ yarn start
 ```
 
 #### API key
-For the recipe search function to work, you will need an API key from Data.gov `https://developer.edamam.com/`
+For the recipe search function to work, you will need an API key from Data.gov `https://api.data.gov/signup/`
 The API key can be stored in a .env file as follows
 ```
 DATA_GOV_API_KEY=<YOUR_API_ID_HERE>
