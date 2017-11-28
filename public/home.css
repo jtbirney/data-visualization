@@ -1,14 +1,19 @@
 .graph-container {
-  display: flex;
-  justify-content: center;
+  /*display: flex;
+  justify-content: center;*/
 }
 
 .label-container {
   width: 600px;
-  text-align: right;
+  /*text-align: right;*/
+}
+
+circle {
+  color: black;
 }
 
 .label {
   height: 20px;
   margin: 0;
+  padding: 0px, 10px, 0px, 0px;
 }

@@ -26,17 +26,46 @@ class App extends Component {
   }
 
   render() {
-    let selectedResults = this.state.data.filter(result => result.year === this.state.year && result.count !== null)
-    let results = selectedResults.map(result => {
+    let selectedResults = {
+      black: 0,
+      latino: 0,
+      native: 0,
+      asian: 0,
+      white: 0,
+      lgbtq: 0
+    }
+    this.state.data.forEach(result => {
+      if (result.year === this.state.year && result.count !== null) {
+        if (result.bias_name === 'Anti-Black or African American') {
+          selectedResults.black += result.count
+        } else if (result.bias_name === 'Anti-Hispanic or Latino') {
+          selectedResults.latino += result.count
+        } else if (result.bias_name === 'Anti-American Indian or Alaska Native' || result.bias_name === 'Anti-Native Hawaiian or Other Pacific Islander') {
+          selectedResults.native += result.count
+        } else if (result.bias_name === 'Anti-Asian') {
+          selectedResults.asian += result.count
+        } else if (result.bias_name === 'Anti-White') {
+          selectedResults.white += result.count
+        } else if (result.bias_name.match(/(Gay|Homosexual)/)) {
+          selectedResults.lgbtq += result.count
+        }
+      }
+    })
+    let results = Object.values(selectedResults)
+    let perceived = {
+      black: 92,
+      latino: 78,
+      native: 75,
+      asian: 61,
+      white: 55,
+      LGBTQ: 90
+    }
+    let labels = Object.keys(perceived).map(result => {
       return(
-        result.count
+        <p key={result} className="label">{result}</p>
       )
     })
-    let labels = selectedResults.map(result => {
-      return(
-        <p key={result.bias_name} className="label">{result.bias_name}</p>
-      )
-    })
+
     return(
       <div>
         <h1>Crime Data</h1>
@@ -44,12 +73,11 @@ class App extends Component {
           selectYear={this.selectYear}
         />
         <br/>
-        <div className="graph-container">
-          <div className="label-container">
-            {labels}
-          </div>
-          <Graph data={results} size={[1000,700]}></Graph>
-        </div>
+        <Graph
+          actualData={results}
+          perceivedData={perceived}
+          size={[1000,1000]}
+        />
       </div>
     )
   }
