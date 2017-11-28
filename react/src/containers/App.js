@@ -51,20 +51,14 @@ class App extends Component {
         }
       }
     })
-    let results = Object.values(selectedResults)
     let perceived = {
       black: 92,
       latino: 78,
       native: 75,
       asian: 61,
       white: 55,
-      LGBTQ: 90
+      lgbtq: 90
     }
-    let labels = Object.keys(perceived).map(result => {
-      return(
-        <p key={result} className="label">{result}</p>
-      )
-    })
 
     return(
       <div>
@@ -72,9 +66,8 @@ class App extends Component {
         <YearSelector
           selectYear={this.selectYear}
         />
-        <br/>
         <Graph
-          actualData={results}
+          actualData={selectedResults}
           perceivedData={perceived}
           size={[1000,1000]}
         />

@@ -16,13 +16,13 @@ class Graph extends Component {
 
   componentWillReceiveProps() {
     let colors = []
-    let numOfColors = this.props.actualData.length
+    let numOfColors = Object.values(this.props.actualData).length
     for (let i = 0; i < numOfColors; i++) {
       let newColor = '#'+Math.floor(Math.random()*5109237 + 11667978).toString(16);
       colors.push(newColor)
     }
     this.setState({
-      data: this.props.actualData,
+      data: Object.values(this.props.actualData),
       colors: colors
     })
   }
@@ -32,19 +32,18 @@ class Graph extends Component {
   }
 
   createChart() {
-    const node = this.node
+    const node = select(this.node)
     const dataMax = max(this.state.data)
     const yScale = scaleLinear()
        .domain([0, dataMax])
        .range([0, this.props.size[1]])
-    select(node)
-      .selectAll('circle')
+
+    node.selectAll('circle')
       .data(this.state.data)
       .enter()
       .append('circle')
 
-    select(node)
-      .selectAll('circle')
+    node.selectAll('circle')
       .data(this.state.data)
       .exit()
       .transition('trans')
@@ -52,16 +51,36 @@ class Graph extends Component {
         .duration(2000)
       .remove()
 
-    select(node)
-      .selectAll('circle')
+    node.selectAll('circle')
       .data(this.state.data)
       .transition('trans')
         .delay(0)
         .duration(2000)
       .style('fill', (d,i) => this.state.colors[i])
-      .attr('cx', (d,i) => i * 150 + 100)
-      .attr('cy', (d,i) => i % 2 * 150 + 100)
+      .attr('cx', (d,i) => (i - i % 2) * 150 + 100)
+      .attr('cy', (d,i) => i % 2 * 250 + 100)
       .attr('r', d => yScale(d)/10)
+
+    node.selectAll('text')
+      .data(this.state.data)
+      .enter()
+      .append('text')
+
+    node.selectAll('text')
+      .data(this.state.data)
+      .exit()
+      .transition('trans')
+        .delay(0)
+        .duration(2000)
+      .remove()
+
+    node.selectAll('text')
+      .text((d, i) => `${Object.keys(this.props.actualData)[i].toUpperCase()} - ${d}`)
+      .attr('x', (d,i) => (i - i % 2) * 150 + 100)
+      .attr('y', (d,i) => i % 2 * 250 + 100)
+      .attr('fill', 'white')
+      .attr('background-color', 'red')
+      .attr('text-anchor', 'middle')
   }
 
   changeColor() {
@@ -69,13 +88,11 @@ class Graph extends Component {
       this.setState({
         actual: false,
         data: Object.values(this.props.perceivedData),
-        color: "pink"
       })
     } else {
       this.setState({
         actual: true,
-        data: this.props.actualData,
-        color: "#fe9922"
+        data: Object.values(this.props.actualData),
       })
     }
   }
@@ -86,15 +103,15 @@ class Graph extends Component {
   }
 
   render() {
-    let buttonText = "Show Actual"
+    let buttonText = "View Actual discrimination"
     if (this.state.actual){
-      buttonText = "Show Perceived"
+      buttonText = "View Perceived discrimination"
     }
 
     return(
       <div>
         <div>
-          <button onClick={this.handleClick}>{buttonText}</button>
+          <button onClick={this.handleClick}>{buttonText.toUpperCase()}</button>
         </div>
         <svg ref={node => this.node = node} width={1000} height={1000}></svg>
       </div>

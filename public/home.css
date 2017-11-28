@@ -1,23 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Atomic+Age');
+
 body {
   color: white;
   background-color: black;
+  font-family: 'Atomic Age', cursive;
 }
 
-circle {
-  color: black;
-}
-.graph-container {
-  /*display: flex;
-  justify-content: center;*/
-}
-
-.label-container {
-  width: 600px;
-  /*text-align: right;*/
+button {
+  width: auto;
+  font-family: 'Atomic Age', cursive;
+  font-size: 1em;
+  display: inline;
 }
 
-.label {
-  height: 20px;
-  margin: 0;
-  padding: 0px, 10px, 0px, 0px;
+select {
+  width: auto;
+  font-size: 1em;
+  font-family: 'Atomic Age', cursive;
+  display: inline;
 }
