@@ -1,75 +1,93 @@
 import React, { Component } from 'react'
 import Graph from './Graph'
 import YearSelector from './YearSelector'
+import Button from './Button'
 
 class App extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      data: [],
-      year: '2015'
+      perceivedData: {},
+      actualData: {},
+      year: '2015',
+      width: 1000,
+      acutal: true
     }
     this.selectYear = this.selectYear.bind(this)
+    this.updateDimensions = this.updateDimensions.bind(this)
+    this.toggleActual = this.toggleActual.bind(this)
   }
 
-  selectYear(year) {
-    this.setState({ year: year })
+  selectYear(event) {
+    this.setState({
+      year: event.target.value,
+      actual: true
+    })
+  }
+
+  updateDimensions() {
+    if (window.innerWidth < 500) {
+      this.setState({
+        width: 500
+      })
+    } else {
+      let newWidth = window.innerWidth
+      this.setState({
+        width: newWidth
+      })
+    }
+  }
+
+  toggleActual(event) {
+    event.preventDefault()
+    this.setState({ actual: !this.state.actual })
   }
 
   componentDidMount() {
-    // fetch(`https://api.usa.gov/crime/fbi/ucr/hc/count/national/bias_name?page=1&per_page=10&output=json&api_key=${ENV["DATA_GOV_API_KEY"]}`)
+    this.updateDimensions()
     fetch(`/api/data.json`)
       .then(response => response.json())
       .then(body => {
-        this.setState({ data: body.results})
+        this.setState({
+          actualData: body.actualData,
+          perceivedData: body.perceivedData
+        })
       })
+    window.addEventListener('resize', this.updateDimensions)
   }
 
   render() {
-    let selectedResults = {
-      black: 0,
-      latino: 0,
-      native: 0,
-      asian: 0,
-      white: 0,
-      lgbtq: 0
+    let buttonText = "View Actual discrimination"
+    if (this.state.actual){
+      buttonText = "View Perceived discrimination"
     }
-    this.state.data.forEach(result => {
-      if (result.year === this.state.year && result.count !== null) {
-        if (result.bias_name === 'Anti-Black or African American') {
-          selectedResults.black += result.count
-        } else if (result.bias_name === 'Anti-Hispanic or Latino') {
-          selectedResults.latino += result.count
-        } else if (result.bias_name === 'Anti-American Indian or Alaska Native' || result.bias_name === 'Anti-Native Hawaiian or Other Pacific Islander') {
-          selectedResults.native += result.count
-        } else if (result.bias_name === 'Anti-Asian') {
-          selectedResults.asian += result.count
-        } else if (result.bias_name === 'Anti-White') {
-          selectedResults.white += result.count
-        } else if (result.bias_name.match(/(Gay|Homosexual)/)) {
-          selectedResults.lgbtq += result.count
-        }
-      }
-    })
-    let perceived = {
-      black: 92,
-      latino: 78,
-      native: 75,
-      asian: 61,
-      white: 55,
-      lgbtq: 90
+
+    let data = {}
+    if (this.state.actual) {
+      data = this.state.actualData[this.state.year]
+    } else if (this.state.perceivedData != {}) {
+      data = this.state.perceivedData
     }
+    let height = Math.round(this.state.width / 2)
 
     return(
       <div>
         <h1>Crime Data</h1>
-        <YearSelector
-          selectYear={this.selectYear}
-        />
+        <div className="selectors-container">
+          <Button
+            handleClick={this.toggleActual}
+            text={buttonText.toUpperCase()}
+          />
+          <YearSelector
+            selectYear={this.selectYear}
+            year={this.state.year}
+            years={Object.keys(this.state.actualData)}
+          />
+        </div>
         <Graph
-          actualData={selectedResults}
-          perceivedData={perceived}
-          size={[1000,1000]}
+          data={data}
+          actual={this.state.actual}
+          size={[this.state.width, height]}
         />
       </div>
     )

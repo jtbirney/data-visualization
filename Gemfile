@@ -5,8 +5,9 @@ gem "sinatra-contrib"
 gem "sinatra-reloader"
 gem "json"
 gem "sass"
+gem "httparty"
 
 group :development, :test do
-  gem 'dotenv-rails'
+  gem 'dotenv'
   gem 'pry'
 end
