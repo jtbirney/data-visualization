@@ -1,14 +1,37 @@
-.graph-container {
+@import url('https://fonts.googleapis.com/css?family=Atomic+Age');
+
+body {
+  color: white;
+  background-color: black;
+  font-family: 'Atomic Age', serif;
+}
+
+button {
+  width: auto;
+  font-family: 'Atomic Age', serif;
+  font-size: 1em;
+  background-color: #B8B8B8;
+  display: inline;
+  margin-right: 0.5em;
+}
+
+select {
+  width: auto;
+  font-size: 1em;
+  font-family: 'Atomic Age', serif;
+  background-color: #B8B8B8;
+  display: inline;
+}
+
+form {
+  margin-right: 0.5em;
+}
+
+label {
+  margin-right: 0.5em;
+}
+
+.selectors-container {
   display: flex;
-  justify-content: center;
-}
-
-.label-container {
-  width: 600px;
-  text-align: right;
-}
-
-.label {
-  height: 20px;
-  margin: 0;
+  justify-content: flex-end;
 }
