@@ -1,28 +1,21 @@
 import React, { Component } from 'react'
 import Graph from './Graph'
-import YearSelector from './YearSelector'
+// import Selector from './YearSelector'
 import Button from './Button'
 
 class App extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      perceivedData: {},
-      actualData: {},
-      year: '2015',
-      width: 1000,
-      acutal: true
+      data: {},
+      scaleLabel: '',
+      width: 1000
     }
-    this.selectYear = this.selectYear.bind(this)
     this.updateDimensions = this.updateDimensions.bind(this)
     this.toggleActual = this.toggleActual.bind(this)
-  }
-
-  selectYear(event) {
-    this.setState({
-      year: event.target.value,
-      actual: true
-    })
+    this.showPerceived = this.showPerceived.bind(this)
+    this.showHateCrimes = this.showHateCrimes.bind(this)
+    this.showEmployment = this.showEmployment.bind(this)
   }
 
   updateDimensions() {
@@ -43,31 +36,48 @@ class App extends Component {
     this.setState({ actual: !this.state.actual })
   }
 
-  componentDidMount() {
-    this.updateDimensions()
-    fetch(`/api/data.json`)
+  showPerceived(event) {
+    event.preventDefault()
+    fetch(`/api/perceived_data.json`)
       .then(response => response.json())
       .then(body => {
         this.setState({
-          actualData: body.actualData,
-          perceivedData: body.perceivedData
+          data: body,
+          scaleLabel: '%'
         })
       })
+  }
+
+  showHateCrimes(event) {
+    event.preventDefault()
+    fetch(`/api/hate_crime_data.json`)
+      .then(response => response.json())
+      .then(body => {
+        this.setState({
+          data: body,
+          scaleLabel: ' / 1mil'
+        })
+      })
+  }
+
+  showEmployment(event) {
+    event.preventDefault()
+    fetch(`/api/eeoc-data.json`)
+      .then(response => response.json())
+      .then(body => {
+        this.setState({
+          data: body,
+          scaleLabel: ' / 1k'
+        })
+      })
+  }
+
+  componentDidMount() {
+    this.updateDimensions()
     window.addEventListener('resize', this.updateDimensions)
   }
 
   render() {
-    let buttonText = "View Actual discrimination"
-    if (this.state.actual){
-      buttonText = "View Perceived discrimination"
-    }
-
-    let data = {}
-    if (this.state.actual) {
-      data = this.state.actualData[this.state.year]
-    } else if (this.state.perceivedData != {}) {
-      data = this.state.perceivedData
-    }
     let height = Math.round(this.state.width / 2)
 
     return(
@@ -75,18 +85,22 @@ class App extends Component {
         <h1>Crime Data</h1>
         <div className="selectors-container">
           <Button
-            handleClick={this.toggleActual}
-            text={buttonText.toUpperCase()}
+            handleClick={this.showPerceived}
+            text={"Perceived discrimination".toUpperCase()}
           />
-          <YearSelector
-            selectYear={this.selectYear}
-            year={this.state.year}
-            years={Object.keys(this.state.actualData)}
+          <Button
+            handleClick={this.showHateCrimes}
+            text={"Hate Crimes".toUpperCase()}
+          />
+          <Button
+            handleClick={this.showEmployment}
+            text={"Employment Discrimination".toUpperCase()}
           />
         </div>
         <Graph
-          data={data}
+          data={this.state.data}
           actual={this.state.actual}
+          scaleLabel={this.state.scaleLabel}
           size={[this.state.width, height]}
         />
       </div>
