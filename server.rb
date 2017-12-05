@@ -11,8 +11,56 @@ set :bind, '0.0.0.0'  # bind to all interfaces
 set :public_folder, File.join(File.dirname(__FILE__), "public")
 set :views, File.dirname(__FILE__) + "/app/views"
 
+population = {
+  black: 39908095,
+  latino: 54232205,
+  native: 3115425,
+  asian: 16235305,
+  white: 232943055
+}
+
 get '/' do
   erb :home
+end
+
+get '/api/housing-data.json' do
+  csv = CSV.read("housing_data.csv", headers: true)
+  hashed_data = csv.map do |d|
+    if d["Calendar Year Filed"] == "2015"
+      d.to_hash
+    end
+  end
+  hashed_data.compact!
+  totals = {
+    black: 0,
+    latino: 0,
+    native: 0,
+    asian: 0,
+    white: 0
+  }
+  hashed_data.each do |state|
+    totals[:black] += state["Number of Filed Cases with a Black or African-American Race Basis"].to_i
+    totals[:black] += state["Number of Filed Cases with a Black and White Race Basis"].to_i
+    totals[:latino] += state["Number of Filed Cases with an Hispanic National Origin Basis"].to_i
+    totals[:native] += state["Number of Filed Cases with a Hawaiian or Pacific-Islander Race Basis"].to_i
+    totals[:native] += state["Number of Filed Cases with a Native American Race Basis"].to_i
+    totals[:native] += state["Number of Filed Cases with a Native American and Black  Race Basis"].to_i
+    totals[:native] += state["Number of Filed Cases with a Native American and White Race Basis"].to_i
+    totals[:asian] += state["Number of Filed Cases with an Asian Race Basis"].to_i
+    totals[:asian] += state["Number of Filed Cases with an Asian and White Race Basis"].to_i
+    totals[:white] += state["Number of Filed Cases with a White Race Basis"].to_i
+  end
+  percentage = {
+    black: (totals[:black].to_f / population[:black].to_f * 1000000).to_i,
+    latino: (totals[:latino].to_f / population[:latino].to_f * 1000000).to_i,
+    native: (totals[:native].to_f / population[:native].to_f * 1000000).to_i,
+    asian: (totals[:asian].to_f / population[:asian].to_f * 1000000).to_i,
+    white: (totals[:white].to_f / population[:white].to_f * 1000000).to_i
+  }
+
+  @data = percentage
+  content_type :json
+  json @data
 end
 
 get '/api/eeoc-data.json' do
@@ -22,13 +70,6 @@ get '/api/eeoc-data.json' do
   hashed_data = csv.map { |d| d.to_hash }
   hash = hashed_data[0]
 
-  population = {
-    black: 39908095,
-    latino: 54232205,
-    native: 3115425,
-    asian: 16235305,
-    white: 232943055
-  }
   totals = {
     black: hash["BLKT10"],
     latino: hash["HISPT10"],
@@ -67,14 +108,6 @@ get '/api/hate_crime_data.json' do
   response = HTTParty.get(url, format: :plain)
   parsed = JSON.parse(response.parsed_response, :symbolize_names => true)
   results = parsed[:results]
-
-  population = {
-    black: 39908095,
-    latino: 54232205,
-    native: 3115425,
-    asian: 16235305,
-    white: 232943055
-  }
   actual = {}
   results.each do |result|
     year = result[:year]

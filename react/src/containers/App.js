@@ -16,6 +16,7 @@ class App extends Component {
     this.showPerceived = this.showPerceived.bind(this)
     this.showHateCrimes = this.showHateCrimes.bind(this)
     this.showEmployment = this.showEmployment.bind(this)
+    this.showHousing = this.showHousing.bind(this)
   }
 
   updateDimensions() {
@@ -72,6 +73,18 @@ class App extends Component {
       })
   }
 
+  showHousing(event) {
+    event.preventDefault()
+    fetch(`/api/housing-data.json`)
+      .then(response => response.json())
+      .then(body => {
+        this.setState({
+          data: body,
+          scaleLabel: ' / 1mil'
+        })
+      })
+  }
+
   componentDidMount() {
     this.updateDimensions()
     window.addEventListener('resize', this.updateDimensions)
@@ -96,7 +109,12 @@ class App extends Component {
             handleClick={this.showEmployment}
             text={"Employment Discrimination".toUpperCase()}
           />
+          <Button
+            handleClick={this.showHousing}
+            text={"Housing Discrimination".toUpperCase()}
+          />
         </div>
+        <br/>
         <Graph
           data={this.state.data}
           actual={this.state.actual}
