@@ -1,7 +1,7 @@
 # README
 
 This is an exercise to start learning the D3 library.
-Data is from Data.gov. You will need your own API key in .env to access data from their API.
+Data is from Data.gov. If you want to access the data directly, you will need your own API key in .env to access data from their API. However, the data has been saved into csv and json files in this repository.
 
 Ruby v. 2.3.3
 Sinatra 2.0
@@ -22,7 +22,7 @@ $ yarn start
 ```
 
 #### API key
-For the recipe search function to work, you will need an API key from Data.gov `https://api.data.gov/signup/`
+You don't need an api key to run this code. However, to access the data directly from Data.gov, you will need an API key from Data.gov `https://api.data.gov/signup/`
 The API key can be stored in a .env file as follows
 ```
 DATA_GOV_API_KEY=<YOUR_API_ID_HERE>
