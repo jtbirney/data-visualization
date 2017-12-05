@@ -13,10 +13,7 @@ class Graph extends Component {
   createChart() {
     const labels = Object.keys(this.props.data)
     const data = Object.values(this.props.data)
-    let scaleLabel = `%`
-    if (this.props.actual) {
-      scaleLabel = ` per 1,000,000`
-    }
+    let scaleLabel = this.props.scaleLabel
     const node = select(this.node)
     const dataMax = max(data)
     const horizontalDistribution = this.props.size[0] / 6
